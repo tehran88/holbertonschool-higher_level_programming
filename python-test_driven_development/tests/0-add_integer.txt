@@ -1,5 +1,5 @@
 # 0-add_integer.txt
-# Author: MirHeybat Hasanov
+# Author: Chichek
 
 ===========================
 How to Use 0-add_integer.py
